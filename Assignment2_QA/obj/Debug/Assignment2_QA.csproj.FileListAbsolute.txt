@@ -1,0 +1,7 @@
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\bin\Debug\Assignment2_QA.exe.config
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\bin\Debug\Assignment2_QA.exe
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\bin\Debug\Assignment2_QA.pdb
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\obj\Debug\Assignment2_QA.csprojAssemblyReference.cache
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\obj\Debug\Assignment2_QA.csproj.CoreCompileInputs.cache
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\obj\Debug\Assignment2_QA.exe
+E:\Term2\QA\Assignment2_QA\Assignment2_QA\obj\Debug\Assignment2_QA.pdb

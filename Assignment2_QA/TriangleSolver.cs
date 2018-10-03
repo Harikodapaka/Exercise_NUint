@@ -28,7 +28,7 @@ namespace Assignment2_QA
                 }
                 else
                 {
-                    return "Can not form ttriangle with given sides";
+                    return "Can not form triangle with given sides";
                 }
             }
             return "Invalid side entered..";
@@ -36,11 +36,11 @@ namespace Assignment2_QA
 
         private static bool ValidateTraingle(int A, int B, int C)
         {
-            if (((A + B) > C) && ((C + B) > A) && ((A + C) > B)) 
+            if ((A + B > C) && (C + B > A) && (A + C > B)) 
             {
-                return false;
+                return true;
             }
-            return true;
+            return false;
         }
 
         private static bool ValidateSide(int side)
